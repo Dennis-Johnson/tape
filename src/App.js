@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { RouteComponentProps, Switch } from 'react-router';
 import Home from "./Home";
 import Bars from "./Bars";
 import PreviousPlaylists from "./PreviousPlaylists";
@@ -51,9 +52,9 @@ export default class App extends Component {
             </Link>
           </NavBar>
 
-          <Route exact path="/" component={Home} />
-          <Route path="/old" component={PreviousPlaylists} />
-          <Route path="/about" component={About} />
+          <Route exact path={"/"} component={Home} />
+          <Route path={`/old`} component={PreviousPlaylists} />
+          <Route path={`/about`} component={About} />
         </Router>
       </HomeContainer>
     );
