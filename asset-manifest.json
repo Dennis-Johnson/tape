@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tape/static/css/main.60b7f7ce.chunk.css",
+    "main.js": "/tape/static/js/main.3e79a200.chunk.js",
+    "main.js.map": "/tape/static/js/main.3e79a200.chunk.js.map",
+    "runtime~main.js": "/tape/static/js/runtime~main.1c655dd9.js",
+    "runtime~main.js.map": "/tape/static/js/runtime~main.1c655dd9.js.map",
+    "static/js/2.19f65e29.chunk.js": "/tape/static/js/2.19f65e29.chunk.js",
+    "static/js/2.19f65e29.chunk.js.map": "/tape/static/js/2.19f65e29.chunk.js.map",
+    "index.html": "/tape/index.html",
+    "precache-manifest.8c6822222ee1bd707eebced944d0a58a.js": "/tape/precache-manifest.8c6822222ee1bd707eebced944d0a58a.js",
+    "service-worker.js": "/tape/service-worker.js",
+    "static/css/main.60b7f7ce.chunk.css.map": "/tape/static/css/main.60b7f7ce.chunk.css.map",
+    "static/media/appleIconWhite.svg": "/tape/static/media/appleIconWhite.1bcaf4d8.svg",
+    "static/media/cassette-tape.png": "/tape/static/media/cassette-tape.428d2d44.png",
+    "static/media/dennis.jpg": "/tape/static/media/dennis.d3dfb9ba.jpg",
+    "static/media/spotifyIcon.png": "/tape/static/media/spotifyIcon.b818d523.png"
+  }
+}
