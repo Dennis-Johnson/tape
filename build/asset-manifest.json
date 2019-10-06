@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tape/static/css/main.b02d8d36.chunk.css",
+    "main.js": "/tape/static/js/main.d89e072c.chunk.js",
+    "main.js.map": "/tape/static/js/main.d89e072c.chunk.js.map",
+    "runtime~main.js": "/tape/static/js/runtime~main.1c655dd9.js",
+    "runtime~main.js.map": "/tape/static/js/runtime~main.1c655dd9.js.map",
+    "static/js/2.a7f0ee5e.chunk.js": "/tape/static/js/2.a7f0ee5e.chunk.js",
+    "static/js/2.a7f0ee5e.chunk.js.map": "/tape/static/js/2.a7f0ee5e.chunk.js.map",
+    "index.html": "/tape/index.html",
+    "precache-manifest.b5082a29c3bae3a90f838619536d483c.js": "/tape/precache-manifest.b5082a29c3bae3a90f838619536d483c.js",
+    "service-worker.js": "/tape/service-worker.js",
+    "static/css/main.b02d8d36.chunk.css.map": "/tape/static/css/main.b02d8d36.chunk.css.map",
+    "static/media/appleIconWhite.svg": "/tape/static/media/appleIconWhite.1bcaf4d8.svg",
+    "static/media/cassette-tape.png": "/tape/static/media/cassette-tape.428d2d44.png",
+    "static/media/spotifyIcon.png": "/tape/static/media/spotifyIcon.b818d523.png"
+  }
+}

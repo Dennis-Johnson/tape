@@ -13,7 +13,7 @@
   color: lightyellow;
 }
 .cassette-wrapper{
-  height:68vh;
+  min-height:80vh;
   font-family: 'Anton', sans-serif;
   margin: 5vh 5%;
   color: white;
@@ -24,7 +24,7 @@
 .chapter{
   text-align: center;
   width:30vh;
-  height:10vh;
+  min-height:10vh;
   margin: auto;
   border-radius:5px;
   padding-top:3vh;
@@ -40,10 +40,11 @@
   font-size: calc(10px + 2vmin);  
   background-color:#fdec55;
   color:black;
-
   display: grid;
   grid-template-columns: auto;
   grid-template-rows: 30% 70%;
+  filter:drop-shadow(5px 5px 5px black);
+
 }
 .title{
   font-size: calc(15px + 2vmin);
@@ -73,6 +74,7 @@
   height:30vh;
   border-radius: 4px;
   background-color:#fdec55;
+  filter:drop-shadow(5px 5px 5px black);
 }
 form{
   height: 100%;
