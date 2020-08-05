@@ -1,0 +1,41 @@
+.apple-music-wrapper {
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 4px;
+  height: 30vh;
+  background: #f44336;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(5px 5px 5px black);
+}
+
+@media only screen and (min-width: 768px) {
+  .apple-music-wrapper {
+    width: 70%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .apple-music-wrapper {
+    width: 50%;
+  }
+}
+
+.apple-title {
+  font-size: calc(19px + 2vmin);
+}
+.apple-icon {
+  width: 7vh;
+  height: 7vh;
+  vertical-align: bottom;
+  margin: auto 3vh;
+}
+.apple-link:hover,
+.apple-link:visited,
+.apple-link:link,
+.apple-link:active {
+  text-decoration: none;
+  color: white;
+}

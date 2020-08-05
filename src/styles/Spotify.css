@@ -1,0 +1,39 @@
+.spotify-wrapper {
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 4px;
+  height: 30vh;
+  background: #009688;
+  color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(5px 5px 5px black);
+}
+@media only screen and (min-width: 768px) {
+  .spotify-wrapper {
+    width: 70%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .spotify-wrapper {
+    width: 50%;
+  }
+}
+.spotify-title {
+  font-size: calc(19px + 2vmin);
+}
+.spotify-icon {
+  width: 7vh;
+  height: 7vh;
+  margin: auto 3vh;
+  vertical-align: -8px;
+}
+.spotify-link:hover,
+.spotify-link:visited,
+.spotify-link:link,
+.spotify-link:active {
+  text-decoration: none;
+  color: black;
+}
